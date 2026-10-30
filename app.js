@@ -1,13 +1,13 @@
 const apps=[
-{title:'그림책 낱말 놀이',category:'국어·표현',icon:'가',desc:'그림책 속 낱말과 문장을 읽고, 빈칸 채우기와 이야기 이해 활동을 해요.',tags:'그림책 · 낱말 · 독후활동',url:'https://joeune000.github.io/picture-book-word-play/'},
-{title:'한빛 관용 표현 교실',category:'국어·표현',icon:'“ ”',desc:'영상을 보며 말 속에 숨은 뜻을 찾아요. 관용 표현을 배우고 연습해요.',tags:'관용 표현 · 영상 · 수행평가',url:'https://hanbit-idiom-learning.vercel.app/'},
 {title:'주말 이야기',category:'한빛반 5분 루틴 학습',icon:'☏',desc:'주말 이야기 웹앱으로 이동해요.',tags:'주말 이야기',url:'https://weekend-story-hanbit-jo-1030.joeune.chatgpt.site/'},
 {title:'마음 한 모금',category:'한빛반 5분 루틴 학습',icon:'♡',desc:'매일 5분, 내 마음을 알아차리고 나에게 다정한 말을 건네는 마음 연습이에요.',tags:'사회정서학습 · 마음 · 가정 연계',url:'https://heart-sip-daily-practice.vercel.app/'},
+{title:'하루 시작 활동지',category:'한빛반 5분 루틴 학습',icon:'☀',desc:'학생에게 맞는 수학과 쓰기 활동을 준비하고, 하루 시작 활동지를 인쇄해요.',tags:'아침 활동 · 수준별 학습 · 인쇄',url:'https://hanbit-morning-worksheet.netlify.app/'},
+{title:'그림책 낱말 놀이',category:'국어·표현',icon:'가',desc:'그림책 속 낱말과 문장을 읽고, 빈칸 채우기와 이야기 이해 활동을 해요.',tags:'그림책 · 낱말 · 독후활동',url:'https://joeune000.github.io/picture-book-word-play/'},
+{title:'한빛 관용 표현 교실',category:'국어·표현',icon:'“ ”',desc:'영상을 보며 말 속에 숨은 뜻을 찾아요. 관용 표현을 배우고 연습해요.',tags:'관용 표현 · 영상 · 수행평가',url:'https://hanbit-idiom-learning.vercel.app/'},
 {title:'한빛반 사회적 상황이야기',category:'마음·생활',icon:'☁',desc:'사회적 상황이야기로 듣기와 말하기를 연습하는 활동지예요.',tags:'사회적 상황 · 듣기 · 말하기',url:'https://script.google.com/macros/s/AKfycbxxBh-dyGuRUqyfxfHlEHYyS_iGaF8E1l8JoDfa1E6easLs2fvTAVwT89iYkZ2tB4-G1Q/exec'},
 {title:'돈비 경제어휘 지도',category:'경제·우리 동네',icon:'₩',desc:'한눈에 보는 경제어휘 지도에서 경제 낱말을 만나요.',tags:'경제 · 어휘 · 1단계',url:'https://donbi-economy-map.joeune.chatgpt.site/'},
 {title:'우리 동네 슈퍼맨 탐험',category:'경제·우리 동네',icon:'⌂',desc:'「잇다」 우리 동네 슈퍼맨 탐험 웹앱으로 이동해요.',tags:'우리 동네 · 탐험',url:'https://joeune000.github.io/village-/?v=24'},
 {title:'소리모아 음악교실',category:'음악',icon:'♫',desc:'소리모아 음악교실의 악보 보관함을 열어 보세요.',tags:'음악 · 악보',url:'https://sorimoa-music-class.joeune.chatgpt.site/'},
-{title:'하루 시작 활동지',category:'한빛반 5분 루틴 학습',icon:'☀',desc:'학생에게 맞는 수학과 쓰기 활동을 준비하고, 하루 시작 활동지를 인쇄해요.',tags:'아침 활동 · 수준별 학습 · 인쇄',url:'https://hanbit-morning-worksheet.netlify.app/'},
 {title:'한빛반 배움터 · 배움잇다',category:'수업 준비·평가',icon:'✓',desc:'개별화교육계획 평가와 국어·수학 누적 기록을 확인하는 교사 공간이에요.',tags:'개별화교육 · 평가 · 학습 기록',url:'https://baeum-itda-classroom.vercel.app/access'}
 ];
 const colors={'한빛반 5분 루틴 학습':['#e5eddc','#63804d'],'국어·표현':['#f3ead4','#977444'],'마음·생활':['#f7e5df','#ae7767'],'경제·우리 동네':['#e4eddf','#658259'],'음악':['#eae5f2','#8b78a1'],'수업 준비·평가':['#e2eced','#65848b']};
