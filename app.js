@@ -5,7 +5,6 @@ const apps=[
 {illustration:'book',title:'그림책 낱말 놀이',category:'국어·표현',icon:'가',desc:'그림책 속 낱말과 문장을 읽고, 빈칸 채우기와 이야기 이해 활동을 해요.',tags:'그림책 · 낱말 · 독후활동',url:'https://joeune000.github.io/picture-book-word-play/'},
 {illustration:'idiom',title:'한빛 관용 표현 교실',category:'국어·표현',icon:'“ ”',desc:'영상을 보며 말 속에 숨은 뜻을 찾아요. 관용 표현을 배우고 연습해요.',tags:'관용 표현 · 영상 · 수행평가',url:'https://hanbit-idiom-learning.vercel.app/'},
 {illustration:'social',title:'한빛반 사회적 상황이야기',category:'마음·생활',icon:'☁',desc:'사회적 상황이야기로 듣기와 말하기를 연습하는 활동지예요.',tags:'사회적 상황 · 듣기 · 말하기',url:'https://script.google.com/macros/s/AKfycbxxBh-dyGuRUqyfxfHlEHYyS_iGaF8E1l8JoDfa1E6easLs2fvTAVwT89iYkZ2tB4-G1Q/exec'},
-{illustration:'economy',title:'돈비 경제어휘 지도',category:'경제·우리 동네',icon:'₩',desc:'한눈에 보는 경제어휘 지도에서 경제 낱말을 만나요.',tags:'경제 · 어휘 · 1단계',url:'https://donbi-economy-map.joeune.chatgpt.site/'},
 {illustration:'village',title:'우리 동네 슈퍼맨 탐험',category:'경제·우리 동네',icon:'⌂',desc:'「잇다」 우리 동네 슈퍼맨 탐험 웹앱으로 이동해요.',tags:'우리 동네 · 탐험',url:'https://joeune000.github.io/village-/?v=24'},
 {illustration:'music',title:'소리모아 음악교실',category:'음악',icon:'♫',desc:'소리모아 음악교실의 악보 보관함을 열어 보세요.',tags:'음악 · 악보',url:'https://sorimoa-music-class.joeune.chatgpt.site/'},
 {illustration:'assessment',title:'한빛반 배움터 · 배움잇다',category:'수업 준비·평가',icon:'✓',desc:'개별화교육계획 평가와 국어·수학 누적 기록을 확인하는 교사 공간이에요.',tags:'개별화교육 · 평가 · 학습 기록',url:'https://baeum-itda-classroom.vercel.app/access'}
