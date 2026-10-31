@@ -17,3 +17,6 @@
 .filters button[aria-pressed=true]{background:var(--pill-bg);color:var(--pill-ink);border-color:var(--pill-ink);box-shadow:0 3px 9px #354b3526}
 @media(max-width:600px){.filters{gap:8px}.filters button{padding:9px 12px}.filters button small{margin-left:6px}}
 @media(prefers-reduced-motion:reduce){.filters button{transition:none}.filters button:hover{transform:none}}
+
+/* Storybook illustrations */
+.card{overflow:hidden}.card-illustration{display:block;width:calc(100% + 48px);max-width:none;height:auto;aspect-ratio:3/2;object-fit:cover;margin:-24px -24px 20px;background:#f4eddf}.card-top .icon{width:34px;height:34px;font-size:19px;border-radius:11px}.card-top .tag{font-size:10px}.card h3{margin-top:16px}
