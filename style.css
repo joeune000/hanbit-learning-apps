@@ -20,3 +20,6 @@
 
 /* Storybook illustrations */
 .card{overflow:hidden}.card-illustration{display:block;width:calc(100% + 48px);max-width:none;height:auto;aspect-ratio:3/2;object-fit:cover;margin:-24px -24px 20px;background:#f4eddf}.card-top .icon{width:34px;height:34px;font-size:19px;border-radius:11px}.card-top .tag{font-size:10px}.card h3{margin-top:16px}
+
+/* Readable footer */
+footer{font-size:13px;color:#53634f;font-weight:500;line-height:1.7}footer strong{font-size:14px;color:#344d38;font-weight:800}
