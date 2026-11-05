@@ -26,3 +26,4 @@ footer{font-size:13px;color:#53634f;font-weight:500;line-height:1.7}footer stron
 
 /* Teacher identity in header and footer */
 .byline{font-size:15px;font-weight:700;color:#3f5645}footer{align-items:center}.footer-author{display:flex;align-items:center;gap:10px}.footer-character{display:block;width:44px;height:50px;object-fit:contain}footer .footer-author span{margin-left:0;width:auto}@media(max-width:600px){.footer-author{gap:8px}.footer-character{width:38px;height:44px}}
+.filters button[data-category="전환교육"]{--pill-bg:#f6e4d6;--pill-ink:#8b6249}
